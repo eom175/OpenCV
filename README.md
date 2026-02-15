@@ -1,6 +1,6 @@
 # OpenCV Computer Vision Practice
 
-컴퓨터 비전 수업 실습 코드를 주차별(`HW_01` ~ `HW_05`)로 정리한 저장소입니다.
+컴퓨터 비전 수업 실습 코드를 주차별(`HW_01` ~ `HW_05`)로 정리.
 
 ## Environment
 
@@ -34,7 +34,7 @@ pip install opencv-python numpy matplotlib
 
 ## Run
 
-각 주차 폴더로 이동해서 스크립트를 실행하면 됩니다.
+각 주차 폴더로 이동해서 스크립트를 실행.
 
 ```bash
 cd HW_03
@@ -43,5 +43,5 @@ python filtering.py
 
 참고:
 
-- 일부 스크립트는 `cv2.imshow()`를 사용하므로 GUI 환경에서 실행해야 합니다.
-- 입력 이미지는 각 `HW_*` 폴더에 포함되어 있습니다.
+- 일부 파일들은 `cv2.imshow()`를 사용하므로 GUI 환경에서 실행해야 함. 
+- 입력 이미지는 각 `HW_*` 폴더에 포함되어 있음. 
